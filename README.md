@@ -25,4 +25,4 @@ Download the latest file from [Releases](https://github.com/haoqi75/st-virtual-m
 There are 2 files on the download page:
 - ``VM.vX.X.X.sb3``: TurboWarp work file
 - ``st-virtual-machine-64-X.X.X.exe``: Windows single executable file (64-bit only)
-- ``st_virtual_machine-X.X.X.apk``: Android app (beta).
+- Not recommended for use on Android.
