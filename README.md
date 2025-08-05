@@ -1,4 +1,6 @@
 # VM Scratch Turbowarp
+[![GitHub License](https://img.shields.io/github/license/haoqi75/st-virtual-machine)](./LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/haoqi75/st-virtual-machine)](https://github.com/haoqi75/st-virtual-machine/releases)
 ![fronted](./fronted.png)
 Scartch/Turbowarp virtual machines UI, extension created by [MiloDev123/TW-VME](https://github.com/MiloDev123/TW-VME).
 
@@ -19,6 +21,9 @@ Scartch/Turbowarp virtual machines UI, extension created by [MiloDev123/TW-VME](
 - [x] KolibriOS
 - [x] Damn Small Linux
 - [x] Windows 7
+
+### Try Demo
+[Scratch](https://scratch.mit.edu/projects/1201556009)
 
 ### Download
 Download the latest file from [Releases](https://github.com/haoqi75/st-virtual-machine/releases).
