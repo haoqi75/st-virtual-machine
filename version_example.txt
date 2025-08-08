@@ -1,0 +1,33 @@
+
+1 VERSIONINFO
+FILEVERSION 1,4,2,0
+PRODUCTVERSION 1,4,2,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "haoqi75(GitHub, Inc.)"
+		VALUE "FileDescription", "Scartch Turbowarp VirtualMachine"
+		VALUE "FileVersion", "1.0.0"
+		VALUE "InternalName", "electron.exe"
+		VALUE "LegalCopyright", "Copyright (C) 2015 GitHub, Inc. All rights reserved."
+		VALUE "OriginalFilename", "st-virtual-machine.exe"
+		VALUE "ProductName", "Electron"
+		VALUE "ProductVersion", "1.0.0"
+		VALUE "SquirrelAwareVersion", "1"
+		VALUE "0", "1"
+		VALUE "1", "."
+		VALUE "2", "0"
+		VALUE "3", "."
+		VALUE "4", "0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0  
+}
+}
